@@ -3,7 +3,7 @@ function add7() {
   }
 
 function multiply() {
-    return (+prompt("Pick a number") * (+prompt("Pick another Number")))
+    return (+prompt("Pick a number") * (+prompt("Pick another Number")));
 }
 
 function capitalize(string) {
